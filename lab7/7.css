@@ -1,0 +1,12 @@
+body{
+margin: 0;
+padding: 0px;
+}
+
+
+.shape{
+border: 1px solid black;
+position: absolute;
+opacity: 0.8;
+overflow: hidden;
+}

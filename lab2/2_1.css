@@ -1,0 +1,33 @@
+*
+{
+	margin:0;
+}
+body
+{
+	height:100%;
+}
+header
+{
+	background-color:#EAEAEA;
+	padding:5px;
+	padding-bottom:50px;
+	font-weight:bold;
+	font-size:25px;
+}
+.left-column
+{
+	float:left;
+	background-color: #C8FC98;
+	width:175px;
+	padding:5px;
+}
+.content-column
+{
+padding-left:200px;
+}
+footer
+{
+	clear:both;
+	background-color:black;
+	text-align:center;
+}

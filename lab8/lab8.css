@@ -1,0 +1,20 @@
+body{
+margin: 20;
+padding: 0px;
+}
+input{
+    max-height: 100%;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.field{
+  height: 30px;
+  display: flex;
+}
+#hidden{
+display: none;
+}
+p{
+    font-size: 25px;
+}

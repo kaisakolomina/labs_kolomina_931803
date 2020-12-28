@@ -1,0 +1,12 @@
+.inline_block
+{
+	display:inline-block;
+	background-color:aquamarine;
+	width:170px;
+	height:100px;
+	margin:10px;
+}
+.footer
+{
+	background-color:bisque;
+}

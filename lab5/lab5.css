@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.news {
+    width: 50%;
+    margin: auto;
+    background-color: PowderBlue;
+    border-bottom: 2px solid black;
+    padding: 20px;
+    z-index: 2;
+}
+
+.news:hover {
+    background-color: salmon;
+}
+
+button {
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#00FF00), to(#228B22));
+    padding: 10px;
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+.article {
+    display: none;
+    background-color: #D9F970;
+    width: 45%;
+	margin: 200px auto;
+}
+
+.back {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
